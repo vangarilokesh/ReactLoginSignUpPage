@@ -1,0 +1,27 @@
+.login{
+    display:flex;
+    background-color: rgb(233, 231, 97);
+    width:75%;
+    align-items: center;
+    align-self: auto;
+    align-content: center;
+    padding:40px 20px;
+    margin: auto;
+}
+h1{
+    padding-right: auto;
+}
+form{
+    padding:10% 20%;
+    align-self: center;
+}
+form>input{
+    padding:10px 10px;
+}
+form>label{
+    align-self:auto;
+    padding-right: 10px;
+}
+p{
+    padding: 30px;
+}
